@@ -1,0 +1,11 @@
+# Virtual environments
+venv/
+venv3/
+__pycache__/
+
+# IDE files
+.idea/
+*.pyc
+*.pyo
+*.pyd
+*.db
